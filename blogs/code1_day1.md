@@ -18,16 +18,16 @@ Code:
     int t;
     cin>>t;
     while(t--){
-    int N , D;
-    cin >> D >> N;
-    int temp=N;
-    int sum  = 0;
-    while(D){
-    sum=0;
-    sum = (temp*(temp+1))/2;
-    temp = sum;
-    D--;
-    }
+      int N , D;
+      cin >> D >> N;
+      int temp=N;
+      int sum  = 0;
+      while(D){
+        sum=0;
+        sum = (temp*(temp+1))/2;
+        temp = sum;
+        D--;
+      }
     cout << sum<<endl;
     }
     }
