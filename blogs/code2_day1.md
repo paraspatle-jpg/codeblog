@@ -36,4 +36,4 @@ Code:
     }
     }
 
-Time taken : 8 min
+Time taken : 6 min
