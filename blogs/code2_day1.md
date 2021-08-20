@@ -8,7 +8,7 @@ Problem 2 : **# Packaging Cupcakes**
 
 [Problem Statement](https://www.codechef.com/problems/MUFFINS3)
 
-Approach : It is a very simple problem on usage of if else ladder , we just have to form packages, such that only one biggest pakage is formed and if cupcakes are less that or equal to 2 then there wil;l be cupcakes left irrespective of the size of package
+Approach : It is a very simple problem on usage of if else ladder , we just have to form packages, such that only one biggest pakage is formed and if cupcakes are less than or equal to 2 then there will be no cupcakes left irrespective of the size of package
 Code:
 
     #include<bits/stdc++.h>
